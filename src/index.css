@@ -8,7 +8,7 @@ body {
 
 input {
   color: grey;
-  font-size: 1.3rem;
+  font-size: 1.2rem;
   width: 100%;
 }
 
@@ -33,5 +33,5 @@ input {
 }
 
 .card img {
-  max-height: 150px;
+  max-height: 170px;
 }
